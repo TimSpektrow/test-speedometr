@@ -153,7 +153,6 @@ body {
 }
 
 .dot:nth-child(2):before {
-    /* background-color: var(--clr2); */
     background-color: var(--clr2);
     z-index: -2;
 }
@@ -266,7 +265,6 @@ body {
 
 .statistics__row {
     display: flex;
-    /* justify-content: end; */
     font-size: 13px;
 }
 
